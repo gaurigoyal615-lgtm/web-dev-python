@@ -1,2 +1,2 @@
 # web-dev-python
-carees website for jovian
+careers website for jovian
